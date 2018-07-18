@@ -1,0 +1,19 @@
+Why java is robust.
+Structural programmimg lang and Object based programming lang
+abstraction and encapsulation and difference between them.
+Interface and its use.
+what is Polymorphism.
+Difference between overloading and overiding.
+Why do we use overiding.
+what is array
+sorting in desing order in array
+Finding first n prime numbers
+spliting the string word by word
+displaying each character in string using String method
+what is collections.
+Properties file in hashmap.
+Diference between arrays and arraylist.
+Difference between array list and vector.
+Types of join
+Constraint for setting the max and min value for id column.
+How to retrive value using key in hashmap.duplicates in hashmap
