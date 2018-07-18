@@ -6,7 +6,7 @@ what is Polymorphism.
 Difference between overloading and overiding.
 Why do we use overiding.
 what is array
-sorting in desing order in array
+sorting in descending order in array
 Finding first n prime numbers
 spliting the string word by word
 displaying each character in string using String method
