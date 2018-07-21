@@ -1,0 +1,24 @@
+What is abstraction?
+
+What is polymorphism?
+
+implementation of abstraction in java.
+Questions abt method overloading& overriding  
+HashMap,TreeMap,LinkedHashMap
+
+Ways of creating thread(which is preferable)
+
+Can we start same thread twice?
+types of join
+
+a query to find name of student who got max marks from 
+
+ArrayList vs Array
+
+ArrayList vs LinkedList
+
+levels of inheritance 
+
+concurrent hashmap
+
+Finding the kth element from last in linked List.
